@@ -1,2 +1,10 @@
 # DSA
 Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/Sawmya1/DSA/tree/master/0485-max-consecutive-ones) |
+<!---LeetCode Topics End-->
