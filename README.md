@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sawmya1/DSA/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Sawmya1/DSA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Sawmya1/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Sawmya1/DSA/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
@@ -29,5 +30,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sawmya1/DSA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Sawmya1/DSA/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sawmya1/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
