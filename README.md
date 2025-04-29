@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Sawmya1/DSA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Sawmya1/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Sawmya1/DSA/tree/master/0485-max-consecutive-ones) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Sawmya1/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +48,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sawmya1/DSA/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Sawmya1/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 <!---LeetCode Topics End-->
