@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Sawmya1/DSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Sawmya1/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Sawmya1/DSA/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sawmya1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Sawmya1/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Sawmya1/DSA/tree/master/0485-max-consecutive-ones) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Sawmya1/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sawmya1/DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sawmya1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
 | ------- |
