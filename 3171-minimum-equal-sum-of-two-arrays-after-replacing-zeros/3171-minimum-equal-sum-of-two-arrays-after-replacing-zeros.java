@@ -15,11 +15,17 @@ class Solution {
         long min2 = sum2 + n2;
 
         if(n1 == 0 && n2 == 0){
-            return sum1 == sum2 ? sum1 : -1;
+            if(sum1 == sum2)
+             return sum1;
+            else return -1;
         }else if(n1 == 0){
-            return sum2 + n2 <=sum1 ?sum1 : -1;
+            if(sum2 + n2 <=sum1)
+            return sum1;
+            else return -1;
         }else if (n2 == 0){
-            return sum1 + n1 <= sum2 ? sum2 : -1;
+            if(sum1 + n1 <= sum2)
+            return sum2;
+            else return -1;
         }
         return Math.max(min1, min2);
     }
