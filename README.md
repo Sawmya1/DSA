@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Sawmya1/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sawmya1/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sawmya1/DSA/tree/master/2215-finding-3-digit-even-numbers) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Sawmya1/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Sawmya1/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Sawmya1/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Hash Table
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sawmya1/DSA/tree/master/0075-sort-colors) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Sawmya1/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,4 +84,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sawmya1/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Sawmya1/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
