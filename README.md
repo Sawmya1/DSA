@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Sawmya1/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Sawmya1/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sawmya1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Sawmya1/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Sawmya1/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Sawmya1/DSA/tree/master/0485-max-consecutive-ones) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Sawmya1/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sawmya1/DSA/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Sawmya1/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Sawmya1/DSA/tree/master/0268-missing-number) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sawmya1/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/Sawmya1/DSA/tree/master/1500-count-largest-group) |
@@ -94,4 +96,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sawmya1/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sawmya1/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
