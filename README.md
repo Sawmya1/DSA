@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Sawmya1/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sawmya1/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Sawmya1/DSA/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sawmya1/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sawmya1/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Sawmya1/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Sawmya1/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sawmya1/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sawmya1/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Sawmya1/DSA/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Sawmya1/DSA/tree/master/0792-binary-search) |
