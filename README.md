@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/Sawmya1/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sawmya1/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Sawmya1/DSA/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/Sawmya1/DSA/tree/master/0792-binary-search) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Sawmya1/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sawmya1/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sawmya1/DSA/tree/master/2215-finding-3-digit-even-numbers) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sawmya1/DSA/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/Sawmya1/DSA/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
