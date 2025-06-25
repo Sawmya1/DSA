@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Sawmya1/DSA/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Sawmya1/DSA/tree/master/0268-missing-number) |
 | [1500-count-largest-group](https://github.com/Sawmya1/DSA/tree/master/1500-count-largest-group) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sawmya1/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -151,4 +152,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Sawmya1/DSA/tree/master/0493-reverse-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Sawmya1/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
