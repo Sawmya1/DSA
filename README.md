@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Sawmya1/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Sawmya1/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sawmya1/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Sawmya1/DSA/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Sawmya1/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sawmya1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Sawmya1/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Sawmya1/DSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Sawmya1/DSA/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -162,4 +164,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sawmya1/DSA/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Sawmya1/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
