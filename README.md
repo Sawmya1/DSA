@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/Sawmya1/DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sawmya1/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sawmya1/DSA/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Sawmya1/DSA/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Sawmya1/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Sawmya1/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sawmya1/DSA/tree/master/0075-sort-colors) |
@@ -169,5 +170,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sawmya1/DSA/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Sawmya1/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Sawmya1/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
