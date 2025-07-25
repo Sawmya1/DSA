@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Sawmya1/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Sawmya1/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3639-zero-array-transformation-i](https://github.com/Sawmya1/DSA/tree/master/3639-zero-array-transformation-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sawmya1/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1500-count-largest-group](https://github.com/Sawmya1/DSA/tree/master/1500-count-largest-group) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sawmya1/DSA/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sawmya1/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sawmya1/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sawmya1/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sawmya1/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Sawmya1/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sawmya1/DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
 |  |
 | ------- |
