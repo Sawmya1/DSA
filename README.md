@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/Sawmya1/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sawmya1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Sawmya1/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Sawmya1/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Sawmya1/DSA/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/Sawmya1/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sawmya1/DSA/tree/master/0268-missing-number) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sawmya1/DSA/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Sawmya1/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Sawmya1/DSA/tree/master/0268-missing-number) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sawmya1/DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Sorting
