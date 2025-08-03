@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Sawmya1/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Sawmya1/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Sawmya1/DSA/tree/master/0075-sort-colors) |
+| [0344-reverse-string](https://github.com/Sawmya1/DSA/tree/master/0344-reverse-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sawmya1/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Sawmya1/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/Sawmya1/DSA/tree/master/0022-generate-parentheses) |
+| [0344-reverse-string](https://github.com/Sawmya1/DSA/tree/master/0344-reverse-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sawmya1/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sawmya1/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sawmya1/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
