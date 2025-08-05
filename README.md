@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/Sawmya1/DSA/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Sawmya1/DSA/tree/master/0268-missing-number) |
 | [1500-count-largest-group](https://github.com/Sawmya1/DSA/tree/master/1500-count-largest-group) |
+| [2032-largest-odd-number-in-string](https://github.com/Sawmya1/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sawmya1/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Search
 |  |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Sawmya1/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sawmya1/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2032-largest-odd-number-in-string](https://github.com/Sawmya1/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2689-rearranging-fruits](https://github.com/Sawmya1/DSA/tree/master/2689-rearranging-fruits) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sawmya1/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Sawmya1/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/Sawmya1/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Sawmya1/DSA/tree/master/1250-longest-common-subsequence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sawmya1/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2032-largest-odd-number-in-string](https://github.com/Sawmya1/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sawmya1/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sawmya1/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Simulation
