@@ -199,9 +199,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sawmya1/DSA/tree/master/0225-implement-stack-using-queues) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sawmya1/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Sawmya1/DSA/tree/master/0322-coin-change) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sawmya1/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sawmya1/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
