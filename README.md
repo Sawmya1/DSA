@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Sawmya1/DSA/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Sawmya1/DSA/tree/master/0206-reverse-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -219,4 +220,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sawmya1/DSA/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Sawmya1/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
