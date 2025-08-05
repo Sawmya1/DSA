@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/Sawmya1/DSA/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/Sawmya1/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sawmya1/DSA/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/Sawmya1/DSA/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/Sawmya1/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Sawmya1/DSA/tree/master/0493-reverse-pairs) |
 | [0594-longest-harmonious-subsequence](https://github.com/Sawmya1/DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/Sawmya1/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sawmya1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Sawmya1/DSA/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/Sawmya1/DSA/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sawmya1/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Sawmya1/DSA/tree/master/1250-longest-common-subsequence) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sawmya1/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -198,4 +200,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sawmya1/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Sawmya1/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
