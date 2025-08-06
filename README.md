@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Sawmya1/DSA/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Sawmya1/DSA/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sawmya1/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0812-rotate-string](https://github.com/Sawmya1/DSA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Sawmya1/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/Sawmya1/DSA/tree/master/1250-longest-common-subsequence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sawmya1/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -236,4 +237,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sawmya1/DSA/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Sawmya1/DSA/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
