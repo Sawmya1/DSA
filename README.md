@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sawmya1/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Sawmya1/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Sawmya1/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sawmya1/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Sawmya1/DSA/tree/master/0031-next-permutation) |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Sawmya1/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Sawmya1/DSA/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Sawmya1/DSA/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Sawmya1/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Sawmya1/DSA/tree/master/0344-reverse-string) |
@@ -228,4 +230,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sawmya1/DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Sawmya1/DSA/tree/master/0206-reverse-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sawmya1/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
