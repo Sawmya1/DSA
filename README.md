@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Sawmya1/DSA/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/Sawmya1/DSA/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sawmya1/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [1078-remove-outermost-parentheses](https://github.com/Sawmya1/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/Sawmya1/DSA/tree/master/1250-longest-common-subsequence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sawmya1/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Sawmya1/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sawmya1/DSA/tree/master/0225-implement-stack-using-queues) |
+| [1078-remove-outermost-parentheses](https://github.com/Sawmya1/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sawmya1/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Breadth-First Search
 |  |
