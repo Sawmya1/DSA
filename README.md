@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/Sawmya1/DSA/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Sawmya1/DSA/tree/master/0268-missing-number) |
 | [0679-24-game](https://github.com/Sawmya1/DSA/tree/master/0679-24-game) |
+| [1013-fibonacci-number](https://github.com/Sawmya1/DSA/tree/master/1013-fibonacci-number) |
 | [1500-count-largest-group](https://github.com/Sawmya1/DSA/tree/master/1500-count-largest-group) |
 | [2032-largest-odd-number-in-string](https://github.com/Sawmya1/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sawmya1/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/Sawmya1/DSA/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Sawmya1/DSA/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sawmya1/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [1013-fibonacci-number](https://github.com/Sawmya1/DSA/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Sawmya1/DSA/tree/master/1250-longest-common-subsequence) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sawmya1/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sawmya1/DSA/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0050-powx-n](https://github.com/Sawmya1/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Sawmya1/DSA/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/Sawmya1/DSA/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -251,4 +254,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Sawmya1/DSA/tree/master/0812-rotate-string) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Sawmya1/DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
