@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Sawmya1/DSA/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Sawmya1/DSA/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Sawmya1/DSA/tree/master/0268-missing-number) |
 | [0679-24-game](https://github.com/Sawmya1/DSA/tree/master/0679-24-game) |
