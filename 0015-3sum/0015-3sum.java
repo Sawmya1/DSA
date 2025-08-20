@@ -7,16 +7,16 @@ class Solution {
             int p1 = i+1, p2 = nums.length-1;
             while(p1<p2){
                 int total = nums[p1]+nums[p2]+nums[i];
-                List<Integer> temp = new ArrayList<>();
                 if(total == 0){
+                    List<Integer> temp = new ArrayList<>();
                     temp.add(nums[i]);
                     temp.add(nums[p1]);
                     temp.add(nums[p2]);
                     ans.add(temp);
                     p1++;
                     p2--;
-                    while(p1<p2 && nums[p1] == nums[p1-1]) continue;
-                    while(p1<p2 && nums[p2] == nums[p2-1]) continue;
+                    while(p1<p2 && nums[p1] == nums[p1-1]) p1++;
+                    while(p1<p2 && nums[p2] == nums[p2+1]) p2--;
                 }
                 else if(total<0)
                 p1++;
