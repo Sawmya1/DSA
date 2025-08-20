@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/Sawmya1/DSA/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Sawmya1/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sawmya1/DSA/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Sawmya1/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Sawmya1/DSA/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Sawmya1/DSA/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/Sawmya1/DSA/tree/master/0485-max-consecutive-ones) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Sawmya1/DSA/tree/master/0238-product-of-array-except-self) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Sawmya1/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3639-zero-array-transformation-i](https://github.com/Sawmya1/DSA/tree/master/3639-zero-array-transformation-i) |
 ## Binary Indexed Tree
