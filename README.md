@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Sawmya1/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Sawmya1/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Sawmya1/DSA/tree/master/0152-maximum-product-subarray) |
+| [0217-contains-duplicate](https://github.com/Sawmya1/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sawmya1/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sawmya1/DSA/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/Sawmya1/DSA/tree/master/0322-coin-change) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Sawmya1/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Sawmya1/DSA/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Sawmya1/DSA/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Sawmya1/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sawmya1/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sawmya1/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sawmya1/DSA/tree/master/0268-missing-number) |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Sawmya1/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sawmya1/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Sawmya1/DSA/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Sawmya1/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sawmya1/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sawmya1/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sawmya1/DSA/tree/master/0268-missing-number) |
