@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sawmya1/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Sawmya1/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Sawmya1/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Sawmya1/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sawmya1/DSA/tree/master/0018-4sum) |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sawmya1/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sawmya1/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sawmya1/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Sawmya1/DSA/tree/master/0031-next-permutation) |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sawmya1/DSA/tree/master/0011-container-with-most-water) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Sawmya1/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sawmya1/DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Sawmya1/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
