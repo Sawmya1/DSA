@@ -6,6 +6,6 @@ class Solution {
             out.append(str[i]).append(" ");
         }
         out.append(str[0]);
-        return out.toString();
+        return out.toString();           
     }
 }
