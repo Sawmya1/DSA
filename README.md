@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Sawmya1/DSA/tree/master/0268-missing-number) |
 | [0679-24-game](https://github.com/Sawmya1/DSA/tree/master/0679-24-game) |
 | [1013-fibonacci-number](https://github.com/Sawmya1/DSA/tree/master/1013-fibonacci-number) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Sawmya1/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1500-count-largest-group](https://github.com/Sawmya1/DSA/tree/master/1500-count-largest-group) |
 | [2032-largest-odd-number-in-string](https://github.com/Sawmya1/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sawmya1/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
