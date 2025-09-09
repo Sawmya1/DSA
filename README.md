@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Sawmya1/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Sawmya1/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sawmya1/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/Sawmya1/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sawmya1/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sawmya1/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Sawmya1/DSA/tree/master/0238-product-of-array-except-self) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/Sawmya1/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sawmya1/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Sawmya1/DSA/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/Sawmya1/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sawmya1/DSA/tree/master/0268-missing-number) |
 | [0679-24-game](https://github.com/Sawmya1/DSA/tree/master/0679-24-game) |
 | [1013-fibonacci-number](https://github.com/Sawmya1/DSA/tree/master/1013-fibonacci-number) |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Sawmya1/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Sawmya1/DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Sawmya1/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Sawmya1/DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Sawmya1/DSA/tree/master/0344-reverse-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sawmya1/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
